@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <em>Hi! Ich bin Samaneh — IT-Studentin aus Österreich 🇦🇹, aktuell in der 3AKIF-Klasse. Hier teile ich meine Schul- und Lern-Projekte rund um Java, C# und Web-Entwicklung.</em>
+  <em>Hi! Ich bin Samaneh — IT-Studentin aus Österreich 🇦🇹. Hier teile ich meine Schul- und Lern-Projekte rund um Java, C# und Web-Entwicklung.</em>
 </div>
 
 <br>
