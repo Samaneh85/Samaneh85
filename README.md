@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hallo%2C+ich+bin+Samaneh+%F0%9F%91%8B;HTL-Absolventin+aus+%C3%96sterreich;Java+%E2%80%A2+C%23+%E2%80%A2+.NET&font=Fira+Code&size=22&color=6C63FF&center=true&vCenter=true&width=600&height=120&duration=3500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demalab.com?lines=Hallo%2C+ich+bin+Samaneh+%F0%9F%91%8B;IT-Studentin+an+der+HTL+Spengergasse;Java+%E2%80%A2+C%23+%E2%80%A2+.NET&font=Fira+Code&size=22&color=6C63FF&center=true&vCenter=true&width=650&height=120&duration=3500" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <em>Hi! Ich bin Samaneh — HTL-Absolventin (Informatik) aus Österreich 🇦🇹. Neben meinen Projekten aus der Ausbildung entwickle ich derzeit eigene Anwendungen, unter anderem eine REST-API in .NET.</em>
+  <em>Hi! Ich bin Samaneh — IT-Studentin an der HTL Spengergasse (Diplomarbeit eingereicht, im Abschluss). Neben Projekten aus der Ausbildung entwickle ich derzeit eigene Anwendungen, unter anderem eine REST-API in .NET.</em>
 </div>
 
 <br>
